@@ -1,0 +1,12 @@
+{
+    "name": "project-b",
+    "version": "0.0.1",
+    "dependencies": {
+        "broccoli-asset-rev": "3.0.0",
+        "broccoli-amd-funnel": "2.0.1",
+        "broccoli-funnel": "3.0.2",
+        "broccoli-merge-trees": "4.2.0",
+        "broccoli-rollup": "4.1.1",
+        "ember-sinon": "4.1.1"
+    }
+}
